@@ -1,6 +1,5 @@
 # hello-world
 
 
-/* Messing around here...
- * Use C# mostly. 
- * Know some Python */
+//Messing around here... Mostly use C#  
+ 
